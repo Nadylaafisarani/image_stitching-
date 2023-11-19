@@ -11,6 +11,8 @@
    ```bash
    Pip3 install imutils
    ```
+   ![image](https://github.com/Nadylaafisarani/image_stitching-/assets/150002543/6db70768-49aa-4474-85db-ae05cd2603ca)
+
    ![image](https://github.com/Nadylaafisarani/image_stitching-/assets/150002543/cac3a7bd-27a4-4133-9524-d3b6737a9809)
 
    Jika sudah di install maka tampilannya akan seperti gambar di atas.
@@ -19,6 +21,8 @@
    ```bash
    Pip3 install opencv-python
    ```
+   ![image](https://github.com/Nadylaafisarani/image_stitching-/assets/150002543/dda5a2cb-04ff-471d-a9be-63695e483cd9)
+
    ![image](https://github.com/Nadylaafisarani/image_stitching-/assets/150002543/8abfe92b-e938-4c21-a307-9dd490de9dc3)
 
    Jika sudah di install maka tampilannya akan seperti gambar di atas.
@@ -27,7 +31,9 @@
    ```bash
    Pip3 install mathplotlib
    ```
-  ![image](https://github.com/Nadylaafisarani/image_stitching-/assets/150002543/075c0803-67a1-4f07-a00b-c7d28585c99d)
+   ![image](https://github.com/Nadylaafisarani/image_stitching-/assets/150002543/d3a43b2d-32cf-4c39-a535-8cc52f69076a)
+
+   ![image](https://github.com/Nadylaafisarani/image_stitching-/assets/150002543/075c0803-67a1-4f07-a00b-c7d28585c99d)
   
    Jika sudah di install maka tampilannya akan seperti gambar di atas.
 
