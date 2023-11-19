@@ -54,6 +54,7 @@
    dan akan muncul gambar seperti di bawah ini :
    ![image](https://github.com/Nadylaafisarani/image_stitching-/assets/150002543/3ab6d9a8-f5e3-496d-9c06-961ebd3962e3)
    ![image](https://github.com/Nadylaafisarani/image_stitching-/assets/150002543/48d905e5-e88a-4064-9d6c-2fc14ada7129)
+   ![image](https://github.com/Nadylaafisarani/image_stitching-/assets/150002543/7437034e-3386-4d60-814b-9c03e744e857)
    ![image](https://github.com/Nadylaafisarani/image_stitching-/assets/150002543/4647aeba-054f-493f-9092-30dd5d1fd3f3)
 
 
